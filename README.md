@@ -22,6 +22,11 @@
 ---
 
 ## 📂 Projects
+- 🌐 **Avto-Polis.com.ua** – Owner & Developer  
+  Designed, developed, and maintained a professional website for online insurance services.  
+  Managed **Google Ads** campaigns and optimized performance with **Google Analytics**.  
+  🔗 [Visit Website](https://avto-polis.com.ua/)  
+
 - 🚗 **Delivery Car Website** – Next.js + Tailwind  
   Multi-language e-commerce platform for car import services with cart, order management, and client registration.  
 
