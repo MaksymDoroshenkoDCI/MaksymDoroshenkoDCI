@@ -1,57 +1,57 @@
-# 👋 Hi, I’m Maksym Doroshenko  
+👋 Hi, I’m Maksym Doroshenko
+💻 Junior Full-Stack Developer based in Berlin, Germany.
+🎓 Master-equivalent degree in Computer Science (recognized by ZAB).
+📚 Currently completing a Full-Stack Web Development program (1,800 UE) at the Digital Career Institute (DCI) — an AZAV-certified Weiterbildung provider.
+📜 Successfully completed Weiterbildung with official DCI preliminary certificate, covering full-stack development, DevOps, SQL, React, backend engineering, and agile workflows.
 
-💻 **Junior Full-Stack Developer** based in Berlin, Germany.  
-🎓 Master-equivalent degree in Computer Science (recognized by ZAB).  
-📚 Currently completing a **Full-Stack Web Development program** at [Digital Career Institute (DCI)](https://digitalcareerinstitute.org/).  
+🚀 About Me
+Passionate about clean code, teamwork, and continuous learning
 
----
+Skilled in building responsive, multilingual web applications
 
-## 🚀 About Me
-- Passionate about **clean code**, **teamwork**, and **continuous learning**  
-- Skilled in building **responsive, multilingual web applications**  
-- Combining experience in **software engineering** and **insurance business management**  
+Combining experience in software engineering and insurance business management
 
----
+Strong foundation in modern web technologies thanks to intensive Weiterbildung at DCI
 
-## 🛠️ Tech Stack
-**Frontend:** HTML5, CSS3/SCSS, JavaScript (ES6+), React, TypeScript, Tailwind CSS  
-**Backend:** Node.js, Express, REST APIs, MongoDB  
-**Tools:** Git/GitHub, npm, Vite, Next.js, Figma, Agile/Scrum  
-**Other:** Internationalization (i18n), Responsive Design, Deployment (Vercel/Netlify)  
+🛠️ Tech Stack
+Frontend: HTML5, CSS3/SCSS, JavaScript (ES6+), React, TypeScript, Tailwind CSS
+Backend: Node.js, Express, REST APIs, MongoDB
+Tools: Git/GitHub, npm, Vite, Next.js, Figma, Agile/Scrum
+Other: Internationalization (i18n), Responsive Design, Deployment (Vercel/Netlify)
 
----
+📂 Projects
+🌐 Avto-Polis.com.ua – Owner & Developer
+Designed, developed, and maintained a professional website for online insurance services.
+Managed Google Ads campaigns and optimized performance with Google Analytics.
+🔗 Visit Website
 
-## 📂 Projects
-- 🌐 **Avto-Polis.com.ua** – Owner & Developer  
-  Designed, developed, and maintained a professional website for online insurance services.  
-  Managed **Google Ads** campaigns and optimized performance with **Google Analytics**.  
-  🔗 [Visit Website](https://avto-polis.com.ua/)  
+🚗 Delivery Car Website – Next.js  + Tailwind
+Multi-language e-commerce platform for car import services with cart, order management, and client registration.
 
-- 🚗 **Delivery Car Website** – Next.js + Tailwind  
-  Multi-language e-commerce platform for car import services with cart, order management, and client registration.  
+✅ Terminal ToDo Manager – Node.js  + TypeScript
+CLI application with task CRUD, CSV import/export, deadlines, and multilingual UI (DE/UA).
 
-- ✅ **Terminal ToDo Manager** – Node.js + TypeScript  
-  CLI application with task CRUD, CSV import/export, deadlines, and multilingual UI (DE/UA).  
+🖼️ Galerie-Generator – TypeScript + Bun
+Generates HTML galleries from folder structures and creates index pages with image links.
 
-- 🖼️ **Galerie-Generator** – TypeScript + Bun  
-  Generates HTML galleries from folder structures and creates index pages with image links.  
+🌍 Languages
+🇺🇦 Ukrainian (native)
 
----
+🇷🇺 Russian (native)
 
-## 🌍 Languages
-- 🇺🇦 Ukrainian (native)  
-- 🇷🇺 Russian (native)  
-- 🇬🇧 English (B2/C1)  
-- 🇩🇪 German (B1)  
+🇬🇧 English (B2/C1)
 
----
+🇩🇪 German (B1)
 
-## 📫 Contact
-- ✉️ Email: **mdoroshenko1@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/%D0%BC%D0%B0%D0%BA%D1%81%D0%B8%D0%BC-%D0%B4%D0%BE%D1%80%D0%BE%D1%88%D0%B5%D0%BD%D0%BA%D0%BE-1b1a7a124/)  
-- 🖥️ [Portfolio](https://maksymdoroshenkodci.github.io/Portfolio-MD/#career)  
-- 🐙 [GitHub](https://github.com/MaksymDoroshenkoDCI)
-- ✅ [My Website](https://avto-polis.com.ua/) 
+📫 Contact
+✉️ Email: mdoroshenko1@gmail.com
 
----
+💼 LinkedIn
+
+🖥️ Portfolio
+
+🐙 GitHub
+
+✅ My Website
+
 ✨ Always learning. Always building. Always improving.
