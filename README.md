@@ -56,8 +56,9 @@
 Professional insurance service website  
 🔗 https://avto-polis.com.ua/
 
-### 🚗 **Delivery Car Website** – Next.js + Tailwind  
-Multi-language e-commerce platform for car import services
+### 🚗 **Delivery Car Website** – Next.js + Tailwind Multi-language e-commerce platform 
+for car import services 
+🔗 https://delivery-car.in.ua/ua
 
 ### ✅ **Terminal ToDo Manager** – Node.js + TypeScript  
 CLI app with CSV import/export, deadlines, multilingual UI
@@ -67,12 +68,7 @@ Generates HTML galleries from folder structures
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaksymDoroshenkoDCI&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaksymDoroshenkoDCI&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+## 📊 GitHub Stats <p align="center"> <img src="https://streak-stats.demolab.com?user=MaksymDoroshenkoDCI&theme=tokyonight&hide_border=true" height="165" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaksymDoroshenkoDCI&theme=tokyonight" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MaksymDoroshenkoDCI&theme=tokyonight" height="165" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MaksymDoroshenkoDCI&theme=tokyonight" height="165" /> </p>
 
 ---
 
