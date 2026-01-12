@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-💻 **Junior Full-Stack Developer** based in Berlin, Germany  
+💻 **Full-Stack Developer** based in Berlin, Germany  
 🎓 Master-equivalent degree in Computer Science (recognized by ZAB)  
 📚 Completing a **1,800 UE Full-Stack Web Development Weiterbildung** at **DCI (AZAV-certified)**  
 📜 Holder of the official **DCI Preliminary Certificate** (Web & Software Developer)  
