@@ -51,6 +51,11 @@
 ---
 
 ## 📂 Featured Projects
+### ✨ **Detailing 4K** – Full-Stack Developer
+Premium web application for an auto detailing studio.
+Features: Online booking, Admin panel, Gallery, Blog, SEO-optimized.
+**Tech:** Next.js 14, TypeScript, PostgreSQL, Prisma, Tailwind CSS.
+🔗 https://detailing4k.com.ua/
 
 ### 🌐 **Avto-Polis.com.ua** – Owner & Developer  
 Professional insurance service website  
